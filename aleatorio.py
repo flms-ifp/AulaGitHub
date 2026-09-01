@@ -7,7 +7,3 @@ for i in range (7):
     mega.append(num)
 megacena=mega
 print (megacena)
-if dig==num:
-    print('vc acertou 1 numero')
-    certos=x=+1
-    print(certos)
